@@ -1,4 +1,4 @@
--👋 Hi, I’m @VinitDemla
+-👋 Hi, I’m @vinitdemla
 
 -👀 I’m interested in  Web development, Coding, and Tech
 
